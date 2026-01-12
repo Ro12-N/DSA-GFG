@@ -28,3 +28,6 @@ class Solution {
         return s1.substr(sidx,len);
     }
 };
+
+// Time Complexity: O(N*M) where N is the length of s1 and M is the length of s2
+// Space Complexity: O(1)
