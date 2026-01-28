@@ -24,3 +24,5 @@ class Solution {
         return ans;
     }
 };
+// Time Complexity: O(N! * N) where N is the number of elements in the array
+// Space Complexity: O(N) for recursive stack and O(N!) for storing all permutations
