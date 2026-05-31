@@ -21,4 +21,5 @@ class Solution {
         return solve(0,0,s);
     }
 };
-// TC : 
+// TC : O(n^3)
+// SC : O(n^2)
